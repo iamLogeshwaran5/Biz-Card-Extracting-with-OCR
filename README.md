@@ -24,8 +24,3 @@ BizCardX is a Streamlit web application that extracts information from business 
 - OpenCV
 
 
-## Contributing
-If you'd like to contribute to this project, please fork the repository and submit pull requests or report issues.
-
-## License
-This project is licensed under the [Your License] - e.g., MIT License.
